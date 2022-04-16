@@ -1,7 +1,6 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=anand755&color=blue&style=flat-square)
 <!--
 **anand755/anand755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mediamodifier-Design](https://user-images.githubusercontent.com/7204347/163669397-ae218851-19fb-4d19-bf67-cab5a482de97.svg)
+
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anand755&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand755&layout=compact)](https://github.com/anand755/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=anand755&color=blue&style=flat-square)
